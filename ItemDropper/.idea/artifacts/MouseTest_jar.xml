@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MouseTest:jar">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="MouseTest.jar">
+      <element id="module-output" name="MouseTest" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Minecrafts/Bot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

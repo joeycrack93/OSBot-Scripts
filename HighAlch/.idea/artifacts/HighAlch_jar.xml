@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HighAlch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HighAlch_jar</output-path>
+    <root id="archive" name="HighAlch.jar">
+      <element id="module-output" name="HighAlch" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Minecrafts/Bot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

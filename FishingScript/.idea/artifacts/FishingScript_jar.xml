@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FishingScript:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FishingScript_jar</output-path>
+    <root id="archive" name="FishingScript.jar">
+      <element id="module-output" name="FishingScript" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Minecrafts/Bot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
